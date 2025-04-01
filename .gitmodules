@@ -1,0 +1,15 @@
+[submodule "libreria-01-eureka-server"]
+	path = libreria-01-eureka-server
+	url = https://github.com/jueltter/libreria-01-eureka-server.git
+[submodule "libreria-03-microservicio-buscador"]
+	path = libreria-03-microservicio-buscador
+	url = https://github.com/jueltter/libreria-03-microservicio-buscador.git
+[submodule "libreria-04-microservicio-operador"]
+	path = libreria-04-microservicio-operador
+	url = https://github.com/jueltter/libreria-04-microservicio-operador.git
+[submodule "libreria-05-cloud-gateway"]
+	path = libreria-05-cloud-gateway
+	url = https://github.com/jueltter/libreria-05-cloud-gateway.git
+[submodule "libreria-frontend"]
+	path = libreria-frontend
+	url = https://github.com/jueltter/libreria-frontend.git
